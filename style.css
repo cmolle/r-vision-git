@@ -20,4 +20,21 @@ button {
     padding: 10px 30px;
     margin: 5px;
     cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}
+
+#btn-plus {
+    background-color: #28a745;
+    color: white;
+}
+
+#btn-moins {
+    background-color: #dc3545;
+    color: white;
+}
+
+#btn-reset {
+    background-color: #6c757d;
+    color: white;
 }
