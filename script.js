@@ -1,4 +1,4 @@
-// Compteur de clics - Application principale
+// Compteur de clics
 let compteur = 0;
 
 const countDisplay = document.getElementById('count');
