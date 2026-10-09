@@ -23,6 +23,7 @@ Ce projet est un compteur interactif qui permet d'incrementer, décrémenter et 
 - Bouton - pour diminuer le compteur
 - Bouton reset pour remettre à zéro
 - Mode sombre (dark mode)
+Et peut=être d'autres changements à venir ?
 
 ## Contribuer
 
